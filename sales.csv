@@ -1,0 +1,7 @@
+sale_id,customer_id,product,quantity,price,date
+101,1,Laptop,1,800,2024-01-10
+102,1,Mouse,2,15,2024-01-15
+103,3,Keyboard,1,30,2024-01-16
+104,2,Monitor,1,200,2024-01-18
+105,5,Headphone,2,25,2024-01-21
+106,4,Mouse,1,15,2024-01-25
